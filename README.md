@@ -172,21 +172,5 @@ Use the built-in demo switcher:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 💡 Author
-
-**Vignesh Vicky**
-Passionate about building scalable systems, UI engineering, and full-stack development.
-
----
-
-<div align="center">
-
-⭐ *If you like this project, consider giving it a star!*
 
 </div>
